@@ -14,13 +14,6 @@ The Library Management System offers the following functionalities:
 
 4. **Fine Calculation:** Enforce timely returns by calculating fines automatically if a book is not returned within the due date. The system calculates the fine amount based on predefined rules and adds it to the member's account, promoting accountability among library members.
 
-## System Requirements
-
-To run the Library Management System, ensure that you have the following software installed:
-
-1. NetBeans IDE: Version X.X or above. (Download: https://netbeans.apache.org/download/index.html)
-2. MySQL Server: Version X.X or above. (Download: https://www.mysql.com/downloads/)
-
 ## Installation and Configuration
 
 To install and configure the Library Management System:
@@ -38,6 +31,3 @@ After successfully running the Library Management System, you can interact with 
 
 For detailed instructions on utilizing each feature, please refer to the user manual or documentation provided.
 
-## Contributors
-
-The Library Management System was developed by [Moudipa Jana]. I value your feedback, bug reports, and suggestions for improvement. Reach me at [moudipa.jana2020@vitstudent.ac.in].
